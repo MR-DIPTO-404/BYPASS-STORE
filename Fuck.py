@@ -16,7 +16,7 @@ print(logo)
 print(45*'-')
 print('[1] AKASH BYPASS :)')
 print('[2] NOOB BOSS BYPASS :)')
-print('[3] AXI BYPASS:)')
+print('[3] Coming soon:)')
 print('[4] Contact Admin')
 print('[0] Exit  Termux :(')
 print(45*'-')
@@ -29,7 +29,7 @@ if Fuck in ['2','02']:
     os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
     import file
     file.menu()
-if Fuck in ['3','03']:
-    ./axi
+if Fuck in ['4','04']:
+    os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
 if Fuck in ['0','00']:
     exit('Bye Bye Idol Take Love From HDX Family🌺🥀')
