@@ -30,6 +30,6 @@ if Fuck in ['2','02']:
     import file
     file.menu()
 if Fuck in ['3','03']:
-    ./axi'
+    ./axi
 if Fuck in ['0','00']:
     exit('Bye Bye Idol Take Love From HDX Family🌺🥀')
