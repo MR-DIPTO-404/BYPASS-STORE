@@ -13,7 +13,7 @@ logo="""
 888         "Y88888P"   "Y8888P"  888    Y88b"""
 print(logo)
 print(45*'-')
-print('[1] AKASH BYPASS :)')
+print('[1] JXB   BYPASS :)')
 print('[2] NOOB  BYPASS :)')
 print('[3] SSB   BYPASS :)')
 print('[4] Contact Admin')
@@ -21,9 +21,10 @@ print('[0] Exit Termux :(')
 print(45*'-')
 Fuck=input('=> Choose Bypass Tools :')
 if Fuck in ['1','01']:
-    print('    Copy Key And Send MR.DIPTO For Free Approval 🥀')
+    print('If you want approval press enter to use bypass')
     time.sleep(5)
-    import PURE
+    import x25
+    x25.menu()
 if Fuck in ['2','02']:
     os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
     import file
