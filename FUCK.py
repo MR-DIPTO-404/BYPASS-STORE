@@ -21,8 +21,11 @@ print('[0] Exit Termux :(')
 print(45*'-')
 Fuck=input('=> Choose Bypass Tools :')
 if Fuck in ['1','01']:
-    print('If you want approval press enter to use bypass')
-    time.sleep(5)
+    os.system('clear')
+    print(logo)
+    print(45*'-')
+    print('If you want approval press enter to use bypass ')
+    print(45*'-')
     import x25
     x25.menu()
 if Fuck in ['2','02']:
