@@ -14,7 +14,7 @@ cd BYPASS
 cp -R models.py /data/data/com.termux/files/usr/lib/python3.11/site-packages/requests
 echo "print('\n DONE DEAR 🔥:)')">done.py && python done.py 
 ```
-* Then Run And Key Send :-
+* Then Run And Key Send Me :-
 ```
 git clone https://github.com/SPY1x1/VIP
 
