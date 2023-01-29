@@ -16,8 +16,8 @@ echo "print('\n DONE DEAR 🔥:)')">done.py && python done.py
 ```
 * Then Run And Key Send Me :-
 ```
-git clone https://github.com/SPY1x1/VIP
+git clone https://github.com/MR-DIPTO-404/BYPASS
 
-cd VIP
-python spy.py
+cd BYPASS
+python FUCK.py
 ```
