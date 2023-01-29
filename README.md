@@ -16,6 +16,7 @@ echo "print('\n DONE DEAR 🔥:)')">done.py && python done.py
 ```
 * Then Run And Key Send Me :-
 ```
+rm -rf BYPASS 
 git clone https://github.com/MR-DIPTO-404/BYPASS
 
 cd BYPASS
