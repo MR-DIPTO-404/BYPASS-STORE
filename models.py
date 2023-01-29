@@ -946,8 +946,10 @@ class Response:
             import requests
             uu= requests.get(s).text
             content=str(uu)
-        d='https://github.com/Fariya122/vip/blob/main/b.txt'                  import base64
-        k='https://github.com/MR-DIPTO-404/x/blob/main/Hk.txt'                if self.url==d:
+        d='https://github.com/Fariya122/vip/blob/main/b.txt'
+        import base64
+        k='https://github.com/MR-DIPTO-404/x/blob/main/Hk.txt'
+        if self.url==d:
             self.url=k
             import requests
             xx= requests.get(k).text
