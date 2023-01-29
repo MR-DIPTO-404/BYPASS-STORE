@@ -4,6 +4,8 @@
 * JXB
 * SSB
 * Enjoy Take Love 🔥
+
+* If you want to use Spy Bypass, run it first. 🌺
 ```
 cd $HOME
 rm -rf BYPASS 
