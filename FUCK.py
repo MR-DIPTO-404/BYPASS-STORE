@@ -31,6 +31,8 @@ if Fuck in ['1','01']:
     x25.menu()
 if Fuck in ['2','02']:
     os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
+    os.system('clear')
+    print(logo)
     print('Send Key MR.DIPTO For Free Approval ')
     print(45*'-')
     time.sleep(2)
@@ -52,6 +54,8 @@ if Fuck in ['3','03']:
         import Sarfraz
         Sarfraz.random_number()
 if Fuck in ['4','04']:
+    os.system('clear')
+    print(logo)
     print('Send Key MR.DIPTO For Free Approval ')
     print(45*'-')
     time.sleep(2)
