@@ -30,6 +30,7 @@ if Fuck in ['1','01']:
     x25.menu()
 if Fuck in ['2','02']:
     os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
+    print('Send Key MR.DIPTO For Free Approval ')
     import spy
 if Fuck in ['3','03']:
     os.system('clear')
