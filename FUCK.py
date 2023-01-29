@@ -16,7 +16,8 @@ print(45*'-')
 print('[1] JXB BYPASS :)')
 print('[2] SPY BYPASS :)')
 print('[3] SSB BYPASS :)')
-print('[4] Contact Admin')
+print('[4] HAMZA BYPASS')
+print('[5] Contact Me ')
 print('[0] Exit Termux :(')
 print(45*'-')
 Fuck=input('=> Choose Bypass Tools :')
@@ -31,6 +32,8 @@ if Fuck in ['1','01']:
 if Fuck in ['2','02']:
     os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
     print('Send Key MR.DIPTO For Free Approval ')
+    print(45*'-')
+    time.sleep(2)
     import spy
 if Fuck in ['3','03']:
     os.system('clear')
@@ -49,6 +52,11 @@ if Fuck in ['3','03']:
         import Sarfraz
         Sarfraz.random_number()
 if Fuck in ['4','04']:
+    print('Send Key MR.DIPTO For Free Approval ')
+    print(45*'-')
+    time.sleep(2)
+    import hhn_enc
+if Fuck in ['5','05']:
     os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
 if Fuck in ['0','00']:
     exit('Bye Bye Idol Take Love From HDX Family🌺')
