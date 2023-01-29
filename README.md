@@ -3,6 +3,7 @@
 * JXB
 * SPY
 * SSB
+* HAMZA
 * Enjoy Take Love 🔥
 
 * If you want to use Spy Bypass, run it first. 🌺
