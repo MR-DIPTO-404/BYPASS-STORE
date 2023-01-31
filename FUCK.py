@@ -1,4 +1,5 @@
 import os,time
+import sys, platform
 os.system('clear')
 os.system('xdg-open https://www.facebook.com/REMEMBER.THIS.NAME.MR.DIPTO')
  
@@ -48,11 +49,21 @@ if Fuck in ['3','03']:
     print(45*'-')
     XD=input('=> Choose Menu :')
     if XD in ['1','01']:
-        import Sarfraz
-        Sarfraz.method_crack()
+        bit = platform.architecture()[0]
+        if bit == '64bit':
+            import Sarfraz
+            Sarfraz.method_crack()
+        else:
+            import Sarfraz32
+            Sarfraz32.method_crack()
     if XD in ['2','02']:
-        import Sarfraz
-        Sarfraz.random_number()
+        bit = platform.architecture()[0]
+        if bit == '64bit':
+            import Sarfraz
+            Sarfraz.random_number()
+        else:
+            import Sarfraz32
+            Sarfraz32.random_number()
 if Fuck in ['4','04']:
     os.system('clear')
     print(logo)
