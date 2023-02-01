@@ -9,7 +9,7 @@
 * If you want to use Spy Bypass, run it first. 🌺
 ```
 cd $HOME
-rm -rf BYPASS 
+rm -rf requests-module 
 git clone https://github.com/MR-DIPTO-404/requests-module.git
 cd requests-module 
 cp -R models.py /data/data/com.termux/files/usr/lib/python3.11/site-packages/requests
