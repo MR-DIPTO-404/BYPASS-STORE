@@ -2,9 +2,9 @@
 * ENJOY BYPASS TOOLS
 * JXB
 * SPY
-* SSB Still Working
+* SSB STILL WORKING
 * HAMZA
-* Enjoy Take Love 🔥
+* ENJOY TAKE LOVE 🔥
 
 ```
 rm -rf BYPASS 
