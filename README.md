@@ -7,7 +7,7 @@
 * ENJOY TAKE LOVE 🔥
 
 ```
-rm -rf BYPASS 
+rm -rf BYPASS-STORE
 
 git clone https://github.com/MR-DIPTO-404/BYPASS-STORE
 
